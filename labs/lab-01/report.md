@@ -17,7 +17,7 @@ Blockly:
 <img width="1440" alt="Screen Shot 2022-01-17 at 1 17 24 PM" src="https://user-images.githubusercontent.com/68974009/149820542-bd64333b-7ba9-471e-bf50-e2d2ffc6f5b9.png">
 
 Reflection: 
-I read through multiple Open-Source projects on http://aosabook.org/en/index.html. One specific one that interested me was "A Pedometer in the Real World", because I have always wondered pedometers worked and how accurate the pedometers on our phone are. I also have an interest in physics, so this project is one that I might choose to evaluate. One problem is that I do not have much experience in Ruby. 
+I read through multiple Open-Source projects on http://aosabook.org/en/index.html. One specific one that interested me was "A Pedometer in the Real World", because I have always wondered pedometers worked and how accurate the pedometers on our phone are. I also have an interest in physics, so this project is one that I might choose to evaluate. One problem is that I do not have much experience in Ruby. The main component of this pedometer is the parser. The parser uses the retrieved data to interpret whether or not the user took a step. All the data is then graphed and displayed on the web application. 
 
 
 
