@@ -1,8 +1,14 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Danush Gupta
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+email: danushgupta@gmail.com
+			 guptad2@rpi.edu
+
+github account: danushgupta
+
+discord handle: Danish#4501
+
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
