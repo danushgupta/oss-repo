@@ -8,4 +8,15 @@ From this chapter, I learned about the dangers of Open-Source Software. Organizi
 
 Linux: <img width="1440" alt="Screen Shot 2022-01-17 at 11 38 20 AM" src="https://user-images.githubusercontent.com/68974009/149810253-b1dc958b-db9c-4356-b1ef-4d8e868f5fe2.png">
 
+Regex: 
+<img width="1440" alt="Screen Shot 2022-01-17 at 12 37 04 PM" src="https://user-images.githubusercontent.com/68974009/149816123-16fb6955-5171-4905-82ca-8af9a7dcaa08.png">
+
+<img width="1440" alt="Screen Shot 2022-01-17 at 1 02 56 PM" src="https://user-images.githubusercontent.com/68974009/149819224-dad3d392-93a2-44d7-b412-88df4f9c0e20.png">
+
+Blockly: 
+<img width="1440" alt="Screen Shot 2022-01-17 at 1 17 24 PM" src="https://user-images.githubusercontent.com/68974009/149820542-bd64333b-7ba9-471e-bf50-e2d2ffc6f5b9.png">
+
+
+
+
 
