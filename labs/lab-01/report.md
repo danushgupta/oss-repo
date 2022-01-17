@@ -6,3 +6,6 @@ Free Culture: In chapter 3 of Free Culture, RPI student Jesse Jordan is accused 
 
 From this chapter, I learned about the dangers of Open-Source Software. Organizing and running this type of software requires a large amount of trust in the users. In Jesse's case, some of the RPI students utilizing the file-system were untrustworthy and this cost Jesse a lot of money. 
 
+Linux: <img width="1440" alt="Screen Shot 2022-01-17 at 11 38 20 AM" src="https://user-images.githubusercontent.com/68974009/149810253-b1dc958b-db9c-4356-b1ef-4d8e868f5fe2.png">
+
+
