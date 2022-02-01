@@ -23,6 +23,8 @@ Gitstats: <img width="1440" alt="Screen Shot 2022-01-31 at 5 08 29 PM" src="http
 index.html: 
 
   Organizer: <img width="1440" alt="Screen Shot 2022-01-31 at 5 58 14 PM" src="https://user-images.githubusercontent.com/68974009/151893052-789d4dd1-7ad0-4c80-a5f4-f2f86b74eab9.png">
+  
+The data on the index.html page are different than what were previously found
 
 
 
