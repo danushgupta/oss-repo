@@ -1,6 +1,5 @@
 Lab 3: 
 
-Project Ideas: 
 
 Latex: <img width="1440" alt="Screen Shot 2022-01-31 at 5 57 51 PM copy" src="https://user-images.githubusercontent.com/68974009/151892643-629a309b-00cc-4307-bf1d-14b50e357045.png">
 
