@@ -12,7 +12,9 @@ The Gopher team failed, because they did not release their software early in the
 6) 
 The MIT License puts very limited restriction on reuse and modification. Microsoft's .NET uses the MIT License, because they have created an open-source community where all contributions are welcome as long as they follow the guidelines and make improvements to the software. They want users to use their software and improve on it. 
 
-7) 
+7) https://github.com/sak6lab/OpenAssistant
+
+8) 
 | Website      | License Present |     License        |
 | ----------- | ----------- | ----------- |
 |   https://github.com/marinater/virtual-tab    | Yes       |     MIT License        |
