@@ -12,9 +12,11 @@ The Gopher team failed, because they did not release their software early in the
 6) 
 The MIT License puts very limited restriction on reuse and modification. Microsoft's .NET uses the MIT License, because they have created an open-source community where all contributions are welcome as long as they follow the guidelines and make improvements to the software. They want users to use their software and improve on it. 
 
-7) \[\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}...}}}\]
- \[ \begin{array}{|c|c|c|}
- \hline
-   \textbf{Website} & \textbf{License Present} & \textbf{License} \\ \hline 
-   \text{https://github.com/marinater/virtual-tab} & \text{Yes} & \text{MIT License} \\ \hline
-\end{array}\]
+7) 
+| Website      | License Present |     License        |
+| ----------- | ----------- | ----------- |
+|   https://github.com/marinater/virtual-tab    | Yes       |     MIT License        |
+|  https://github.com/bparslow/990  |   Yes     |    GNU General Public License v3       | 
+|  https://github.com/shinoka7/aips  |   Yes  |     MIT License |
+| https://github.com/bram-hub/aris| Yes | GNU General Public License v3  |
+| https://github.com/mattgilman10/butter-desktop| Yes |GNU General Public License v3 |
