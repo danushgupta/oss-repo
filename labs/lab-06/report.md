@@ -1,11 +1,11 @@
-#Length 4 Words
-![](images/words4.png)
-![](images/4output.png)
+# Length 4 Words
+![code](images/words4.png)
+![photo](images/4output.png)
 
-#Length 5 words
-![](images/words5.png)
-![](images/5output.png)
+# Length 5 words
+![code](images/words5.png)
+![photo](images/5output.png)
 
-#Length 5 no edit distance
-![](images/5editcode.png)
-![](images/5edit.png)
+# Length 5 no edit distance
+![code](images/5editcode.png)
+![photo](images/5edit.png)
