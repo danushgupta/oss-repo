@@ -9,7 +9,14 @@
 
 # Example 2
 
+Not working for some reason
+![photo](images/example2.png)
+
 # Example 3
 
+![photo](images/example3.png)
+![photo](images/localhost.png)
 
 # Example 4
+
+![photo](images/example4.png)
